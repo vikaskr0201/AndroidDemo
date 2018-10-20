@@ -157,7 +157,7 @@ public class EspressoTest {
        logOut();
     }
 
-    @Test
+    /*@Test
     public void invalidLogin() {
         enterUserName(validUserName);
         enterPassword(invalidPassword);
@@ -177,5 +177,5 @@ public class EspressoTest {
      waitFor(1000);
      verifyFabDisplay();
      clickCallFab();
-    }
+    }*/
 }
